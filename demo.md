@@ -28,6 +28,9 @@ Dự án demo này dùng để thử nghiệm các cú pháp Markdown.
 | README.md  | Tài liệu  | File giới thiệu dự án  |
 | main.py    | Code      | File chạy chính        |
 | test.py    | Test      | File kiểm thử          |
+| config.yml | Cấu hình  | File cấu hình dự án    |
+| utils.py   | Code      | Các hàm tiện ích       |
+| CHANGELOG.md | Tài liệu | Lịch sử thay đổi      |
 
 ## Code block
 
